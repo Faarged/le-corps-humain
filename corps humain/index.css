@@ -60,7 +60,7 @@ main {
 
 /* positionnements et relations descriptions */
 #epaule {
-position:absolute;
+position:absolute; /*utiliser position relative pour avoir soit tout en absolute soit en relative et commande top et left plutot*/
 margin-right:30%;
 margin-top: 70px;
 
